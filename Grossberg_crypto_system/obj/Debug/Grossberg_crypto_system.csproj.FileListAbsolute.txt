@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\bin\Debug\Grossberg_crypto_system.exe.config
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\bin\Debug\Grossberg_crypto_system.exe
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\bin\Debug\Grossberg_crypto_system.pdb
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\bin\Debug\MathNet.Numerics.dll
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\bin\Debug\MathNet.Numerics.xml
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.Form1.resources
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.csproj.CopyComplete
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.exe
+C:\Users\Andrey\source\repos\Grossberg_crypto_system\Grossberg_crypto_system\obj\Debug\Grossberg_crypto_system.pdb
